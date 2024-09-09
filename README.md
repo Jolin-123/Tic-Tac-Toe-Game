@@ -39,15 +39,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-<img width="272" alt="Screenshot 2024-09-09 at 4 07 23 PM" src="https://github.com/user-attachments/assets/47df1b82-f3eb-453f-8b73-552ea5a5e51b">
+<img width="272" height="305" alt="Screenshot 2024-09-09 at 4 07 23 PM" src="https://github.com/user-attachments/assets/47df1b82-f3eb-453f-8b73-552ea5a5e51b">
 
-<img width="272" alt="Screenshot 2024-09-09 at 4 07 38 PM" src="https://github.com/user-attachments/assets/fcacb629-2b6e-45a3-9b97-88739c2862b9">
+<img width="272" height="305" alt="Screenshot 2024-09-09 at 4 07 38 PM" src="https://github.com/user-attachments/assets/fcacb629-2b6e-45a3-9b97-88739c2862b9">
 
-<img width="272" alt="Screenshot 2024-09-09 at 4 08 22 PM" src="https://github.com/user-attachments/assets/9200948e-b933-4637-94e3-44cdfcc860eb">
+<img width="272" height="305" alt="Screenshot 2024-09-09 at 4 08 22 PM" src="https://github.com/user-attachments/assets/9200948e-b933-4637-94e3-44cdfcc860eb">
 
-<img width="272" alt="Screenshot 2024-09-09 at 4 07 57 PM" src="https://github.com/user-attachments/assets/7831ef6d-f7ed-4762-8131-f5a4e272bdee">
+<img width="272" height="305" alt="Screenshot 2024-09-09 at 4 07 57 PM" src="https://github.com/user-attachments/assets/7831ef6d-f7ed-4762-8131-f5a4e272bdee">
 
-<img width="272" alt="Screenshot 2024-09-09 at 4 16 18 PM" src="https://github.com/user-attachments/assets/dcfa8590-bd1a-486d-82c7-5e42d07f9474">
+<img width="272" height="305" alt="Screenshot 2024-09-09 at 4 16 18 PM" src="https://github.com/user-attachments/assets/dcfa8590-bd1a-486d-82c7-5e42d07f9474">
 
 
 
