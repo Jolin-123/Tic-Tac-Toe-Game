@@ -41,13 +41,13 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 <img width="272" alt="Screenshot 2024-09-09 at 4 07 23 PM" src="https://github.com/user-attachments/assets/47df1b82-f3eb-453f-8b73-552ea5a5e51b">
 
-<img width="279" alt="Screenshot 2024-09-09 at 4 07 38 PM" src="https://github.com/user-attachments/assets/fcacb629-2b6e-45a3-9b97-88739c2862b9">
+<img width="272" alt="Screenshot 2024-09-09 at 4 07 38 PM" src="https://github.com/user-attachments/assets/fcacb629-2b6e-45a3-9b97-88739c2862b9">
 
-<img width="278" alt="Screenshot 2024-09-09 at 4 08 22 PM" src="https://github.com/user-attachments/assets/9200948e-b933-4637-94e3-44cdfcc860eb">
+<img width="272" alt="Screenshot 2024-09-09 at 4 08 22 PM" src="https://github.com/user-attachments/assets/9200948e-b933-4637-94e3-44cdfcc860eb">
 
-<img width="278" alt="Screenshot 2024-09-09 at 4 07 57 PM" src="https://github.com/user-attachments/assets/7831ef6d-f7ed-4762-8131-f5a4e272bdee">
+<img width="272" alt="Screenshot 2024-09-09 at 4 07 57 PM" src="https://github.com/user-attachments/assets/7831ef6d-f7ed-4762-8131-f5a4e272bdee">
 
-<img width="304" alt="Screenshot 2024-09-09 at 4 09 08 PM" src="https://github.com/user-attachments/assets/8336b63a-a1b3-4282-b0ef-0c51386720db">
+<img width="272" alt="Screenshot 2024-09-09 at 4 09 08 PM" src="https://github.com/user-attachments/assets/8336b63a-a1b3-4282-b0ef-0c51386720db">
 
 
 ## Learn More
