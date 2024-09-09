@@ -47,7 +47,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 <img width="272" alt="Screenshot 2024-09-09 at 4 07 57 PM" src="https://github.com/user-attachments/assets/7831ef6d-f7ed-4762-8131-f5a4e272bdee">
 
-<img width="272" alt="Screenshot 2024-09-09 at 4 09 08 PM" src="https://github.com/user-attachments/assets/8336b63a-a1b3-4282-b0ef-0c51386720db">
+<img width="272" alt="Screenshot 2024-09-09 at 4 14 58 PM" src="https://github.com/user-attachments/assets/b33e6474-649e-4487-8c22-ba7fe3597437">
+
 
 
 ## Learn More
